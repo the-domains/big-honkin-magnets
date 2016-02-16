@@ -1,4 +1,4 @@
-name: "Big Honkin' Magnets"
+name: Big Honkin Magnets
 favicon: null
 layout_spectrum: 0.33474
 typography_spectrum: 0.30482
@@ -23,7 +23,7 @@ color:
     - '#893837'
     - '#1e1916'
   brandStrength: 0.0625
-  lightness: 0.4375
+  lightness: 0.1875
   saturation: 0.0625
-  rhythmicContrast: 0.43424036260694265
+  rhythmicContrast: 0.75
 purpose: []
