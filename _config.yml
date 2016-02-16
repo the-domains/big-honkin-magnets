@@ -1,7 +1,7 @@
 name: "Big Honkin' Magnets"
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.8490699138492346
+typography_spectrum: 0.08808
 title: "Big Honkin' Magnets"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9948093837592751
-  lightness: 0.1577963731251657
-  saturation: 0.5948466248810291
+    - '#ffffff'
+    - '#91908e'
+    - '#d16e2d'
+    - '#893837'
+    - '#1e1916'
+  brandStrength: 0.0625
+  lightness: 0.4375
+  saturation: 0.0625
   rhythmicContrast: 0.43424036260694265
 purpose: []
